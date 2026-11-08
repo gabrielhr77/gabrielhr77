@@ -20,20 +20,6 @@ I also have experience in web development, particularly with WordPress, website 
             src="https://custom-icon-badges.demolab.com/badge/Repositories-Explore-blue?style=for-the-badge&logo=repo"
         />
     </a>
-    <a href="https://github.com/gabrielhr77?tab=stars">
-        <img
-            alt="Total Stars"
-            title="Total GitHub stars"
-            src="https://custom-icon-badges.demolab.com/github/stars/gabrielhr77?color=55960c&style=for-the-badge&label=Stars&logo=star"
-        />
-    </a>
-    <a href="https://github.com/gabrielhr77?tab=followers">
-        <img
-            alt="Followers"
-            title="GitHub followers"
-            src="https://custom-icon-badges.demolab.com/github/followers/gabrielhr77?color=236ad3&style=for-the-badge&label=Followers&logo=github"
-        />
-    </a>
 </p>
 
 ---
@@ -109,24 +95,6 @@ Ribeirão Preto, Brazil
 
 Research involving gravitational dynamics, numerical simulations, computational modeling, and deep learning applications to physical systems.
 
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    height="180"
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=gabrielhr77&show_icons=true&theme=tokyonight"
-    alt="GitHub Statistics"
-  />
-  <img
-    height="180"
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhr77&theme=tokyonight&layout=compact&langs_count=8"
-    alt="Most Used Languages"
-  />
-</p>
 ---
 
 ### 🌎 Languages
