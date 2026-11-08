@@ -24,7 +24,7 @@ I also have experience in web development, particularly with WordPress, website 
 
 ---
 
-### 🤖 Programming Languages & Technologies
+### Programming Languages & Technologies
 
 **⭐ Main Programming Language**
 
