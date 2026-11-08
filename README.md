@@ -113,23 +113,20 @@ Research involving gravitational dynamics, numerical simulations, computational 
 
 ### 📊 GitHub Statistics
 
-<p>
-    <img
-        align="left"
-        alt="GitHub Statistics"
-        height="180"
-        src="https://github-readme-stats.vercel.app/api?username=gabrielhr77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    />
-    <img
-        align="left"
-        alt="Most Used Languages"
-        height="180"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhr77&theme=tokyonight&layout=compact&langs_count=8&hide=html,css"
-    />
+<p align="center">
+  <img
+    height="180"
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=gabrielhr77&show_icons=true&theme=tokyonight"
+    alt="GitHub Statistics"
+  />
+  <img
+    height="180"
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhr77&theme=tokyonight&layout=compact&langs_count=8"
+    alt="Most Used Languages"
+  />
 </p>
-
-<br clear="both"/>
-
 ---
 
 ### 🌎 Languages
