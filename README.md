@@ -1,16 +1,31 @@
-## Hi there 👋
+### 🤖 Programming Languages & Technologies
 
-<!--
-**gabrielhr77/gabrielhr77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**⭐ Main Programming Language — Python**
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Other Programming Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,php" />
+</p>
+
+**Web Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress" />
+</p>
+
+WordPress · Elementor · Elementor Pro · JetEngine · JetTabs · LatePoint
+
+**Scientific Computing & Machine Learning**
+
+Python · PyTorch · NumPy · SciPy · Matplotlib · Astropy
+
+**Automation & Development Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=n8n,git,github,linux,vscode" />
+</p>
