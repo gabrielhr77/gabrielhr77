@@ -109,5 +109,6 @@ Research involving gravitational dynamics, numerical simulations, computational 
 ---
 
 <p align="center">
-    <i>"Exploring the intersection of computation, mathematics, and physics."</i>
+    <i>“Your lack of fear is based on your ignorance.”</i>
+    <i>― Liu Cixin, The Three-Body Problem</i>
 </p>
