@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Gabriel Hupfer Righi
+# Gabriel Hupfer Righi
 
 **`Computer Science Student | Scientific Computing | Machine Learning`**
 
@@ -69,7 +69,6 @@ I also have experience in web development, particularly with WordPress, website 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="35" title="PyTorch" alt="PyTorch"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="35" title="NumPy" alt="NumPy"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scipy/scipy-original.svg" width="35" title="SciPy" alt="SciPy"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="35" title="Matplotlib" alt="Matplotlib"/>
 </p>
 
