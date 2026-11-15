@@ -179,7 +179,7 @@ Selected projects combining scientific research, software development, and commu
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://gabrielhr77.github.io/portfolio/semcomp-platform/">
-        <img src="assets/featured/semcomp-sete.jpg" width="100%" alt="VII Semana da Computação event visual identity" />
+        <img src="assets/featured/semcomp-vii.png" width="100%" alt="VII Semana da Computação event visual identity" />
       </a>
       <br /><b>VII Semana da Computação</b>
       <br /><sub>General Director · Team Leadership · Event Management</sub>
