@@ -1,6 +1,9 @@
 # Gabriel Hupfer Righi
 
-**`Computer Science Student | Scientific Computing | Machine Learning`**
+
+**Computer Science @ USP | AI & Machine Learning | Python | Software Development**
+
+[🌐 Academic Portfolio](https://gabrielhr77.github.io/) · [🔬 Research](https://gabrielhr77.github.io/research/) · [📂 Projects](https://gabrielhr77.github.io/portfolio/)
 
 I'm a Computer Science undergraduate student at the **University of São Paulo (USP)**, Brazil. My main interests are at the intersection of computer science, physics, and scientific research.
 
@@ -74,6 +77,69 @@ WordPress · Elementor · Elementor Pro · JetEngine · JetTabs · LatePoint · 
 </p>
 
 n8n · Workflow Automation
+
+---
+
+
+### 🚀 Featured Projects
+
+A selection of my work in scientific computing, machine learning, software development, and university initiatives.
+
+#### 🔬 Gravitational Dynamics — Scientific Machine Learning
+
+**Python · PyTorch · Transformers · Numerical Methods**
+
+FAPESP-supported undergraduate research at the University of São Paulo, investigating neural networks for predicting gravitational N-body dynamics.
+
+- Developed numerical simulations of gravitational systems.
+- Explored autoregressive Transformers and physics-informed learning.
+- Evaluated model predictions against numerical integration methods.
+
+[Source Code](https://github.com/gabrielhr77/scientific_initiation) · [Academic Portfolio](https://gabrielhr77.github.io/portfolio/)
+
+---
+
+#### 🧩 ASD GameHub — Inclusive Educational Games
+
+**Python · Kivy · Mobile Development**
+
+Collaborative university extension project at USP focused on developing educational games designed for autistic children.
+
+I developed **two of the application's three games**:
+
+- **Social Understanding:** 20 interactive social scenarios with character selection and contextual feedback.
+- **Daily Routines:** interactive sequencing activities based on five everyday routines.
+
+[Team Repository](https://github.com/v1n1btt/ASD_GameHub) · [Case Study](https://gabrielhr77.github.io/portfolio/asd-gamehub/)
+
+---
+
+#### 🌐 Barbershop Website — Web Development
+
+**WordPress · Elementor · JetEngine · PHP · LatePoint**
+
+Developed and customized a barbershop website featuring service listings, professional profiles, and an appointment booking workflow.
+
+- Customized responsive pages and interactive components.
+- Integrated WordPress plugins for dynamic content.
+- Worked on user navigation and booking interfaces.
+
+[View Case Study](https://gabrielhr77.github.io/portfolio/barbershop-website/)
+
+---
+
+#### 🎓 VII Semana da Computação — Event Leadership
+
+**Project Management · Team Coordination · Technology Outreach**
+
+Served as General Director of the VII Semana da Computação at USP Ribeirão Preto.
+
+- Coordinated approximately 20 student organizers.
+- Managed event planning and collaboration across teams.
+- Secured approximately BRL 5,000 in sponsorships.
+- Supported the organization of technical and academic activities.
+
+[View Academic Portfolio](https://gabrielhr77.github.io/portfolio/)
 
 ---
 
