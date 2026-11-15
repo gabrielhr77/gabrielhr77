@@ -1,6 +1,5 @@
 # Gabriel Hupfer Righi
 
-
 **Computer Science @ USP | AI & Machine Learning | Python | Software Development**
 
 [🌐 Academic Portfolio](https://gabrielhr77.github.io/) · [🔬 Research](https://gabrielhr77.github.io/research/) · [📂 Projects](https://gabrielhr77.github.io/portfolio/)
@@ -83,7 +82,7 @@ n8n · Workflow Automation
 
 ### 🚀 Featured Projects
 
-A selection of my work in scientific computing, machine learning, software development, and university initiatives.
+<!-- A selection of my work in scientific computing, machine learning, software development, and university initiatives.
 
 #### 🔬 Gravitational Dynamics — Scientific Machine Learning
 
@@ -140,6 +139,55 @@ Served as General Director of the VII Semana da Computação at USP Ribeirão Pr
 - Supported the organization of technical and academic activities.
 
 [View Academic Portfolio](https://gabrielhr77.github.io/portfolio/)
+
+---
+-->
+Selected projects combining scientific research, software development, and community initiatives.
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://gabrielhr77.github.io/portfolio/gravitational-dynamics/">
+        <img src="assets/featured/gravitational-dynamics.jpg" width="100%" alt="Gravitational dynamics simulation and evaluation plots" />
+      </a>
+      <br /><b>Gravitational Dynamics with Neural Networks</b>
+      <br /><sub>FAPESP Research · Python · PyTorch · Transformers</sub>
+      <br /><br />
+      <a href="https://gabrielhr77.github.io/portfolio/gravitational-dynamics/">Case study</a> ·
+      <a href="https://github.com/gabrielhr77/scientific_initiation">Source code</a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://gabrielhr77.github.io/portfolio/asd-gamehub/">
+        <img src="assets/featured/asd-gamehub.jpg" width="100%" alt="Classroom illustration asset from ASD GameHub" />
+      </a>
+      <br /><b>ASD GameHub — Educational Games</b>
+      <br /><sub>USP Extension · Python · Kivy · Mobile Development</sub>
+      <br /><br />
+      <a href="https://gabrielhr77.github.io/portfolio/asd-gamehub/">My contributions</a> ·
+      <a href="https://github.com/v1n1btt/ASD_GameHub">Team repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://gabrielhr77.github.io/portfolio/barbershop-website/">
+        <img src="assets/featured/barbershop.jpg" width="100%" alt="Barbershop website homepage screenshot" />
+      </a>
+      <br /><b>Barbershop Website</b>
+      <br /><sub>WordPress · Elementor · JetEngine · Web Development</sub>
+      <br /><br />
+      <a href="https://gabrielhr77.github.io/portfolio/barbershop-website/">Case study</a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://gabrielhr77.github.io/portfolio/semcomp-platform/">
+        <img src="assets/featured/semcomp-vii.jpg" width="100%" alt="VII Semana da Computação event visual identity" />
+      </a>
+      <br /><b>VII Semana da Computação</b>
+      <br /><sub>General Director · Team Leadership · Event Management</sub>
+      <br /><br />
+      <a href="https://gabrielhr77.github.io/portfolio/semcomp-platform/">Case study</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
